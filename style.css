@@ -273,8 +273,8 @@ body.fullscreen-enabled.mobile #autorotateToggle {
 
 #sceneList .scenes {
   width: 100%;
-  background-color: rgb(58,68,84);
-  background-color: rgba(58,68,84,0.8);
+  background-color: rgb(255, 165, 0);
+  background-color: rgba(255, 165, 0, 0.8);
 }
 
 .mobile #sceneList {
@@ -320,13 +320,13 @@ body.fullscreen-enabled.mobile #autorotateToggle {
 }
 
 .no-touch #sceneList .scene:hover {
-  background-color: rgb(103,115,131);
-  background-color: rgba(103,115,131,0.8);
+  background-color: rgb(255, 255, 0);
+  background-color: rgba(255, 255, 0, 0.8);
 }
 
 #sceneList .scene.current {
-  background-color: rgb(103,115,131);
-  background-color: rgba(103,115,131,0.8);
+  background-color: rgb(255, 255, 0);
+  background-color: rgba(255, 255, 0, 0.8);
 }
 
 /* Hide scene list when only a single scene exists */
@@ -786,8 +786,8 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
   width: 40px;
   height: 40px;
   padding: 5px;
-  background-color: rgb(103,115,131);
-  background-color: rgba(103,115,131,0.8);
+  background-color: rgb(75, 0, 130);
+  background-color: rgba(75, 0, 130, 0.8);
 }
 
 body.view-control-buttons .viewControlButton {
