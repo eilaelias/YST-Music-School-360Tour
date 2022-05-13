@@ -154,7 +154,7 @@ var APP_DATA = {
       ]
     }
   ],
-  "name": "Project Title",
+  "name": "YSTMusic-360Tour",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
